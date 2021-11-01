@@ -4,7 +4,7 @@
 
 Este proyecto tuvo como finalidad el analizar dos datasets relacionados con la enfermedad de Parkinson y aplicar modelos de machine learning con el objetivo de estimar si el sujeto de prueba esta saludable o por el contrario si presenta la enfermedad. 
 
-En "Parkinson_drawings" se hizo extrajo la data de fotografiás de espirales dibujadas por personas con parkinson y personas sin la enfermedad. 
+En "Parkinson_drawings" se hizo extrajo la [data](https://www.kaggle.com/kmader/parkinsons-drawings) de fotografiás de espirales dibujadas por personas con parkinson y personas sin la enfermedad. 
 
 ![spiral_healthy](V01HE03.png)
 
@@ -16,7 +16,7 @@ Lo cual pudo ser ocasionado por lo reducido de la data.
 
 ![Curva ROC imagen](model_image.png)
 
-En el caso de el notebook "Parkinson_tuning" se utilizo un dataset que está compuesto por una serie de medidas biomédicas de la voz de 31 personas, 23 de ellas con la enfermedad de Parkinson (EP). Cada columna de la tabla es una medida de voz concreta, y cada fila corresponde a una de las 195 grabaciones de voz de estas personas.
+En el caso de el notebook "Parkinson_tuning" se utilizo un [dataset](https://www.kaggle.com/vikasukani/parkinsons-disease-data-set) que está compuesto por una serie de medidas biomédicas de la voz de 31 personas, 23 de ellas con la enfermedad de Parkinson (EP). Cada columna de la tabla es una medida de voz concreta, y cada fila corresponde a una de las 195 grabaciones de voz de estas personas.
 
 ## Tabla de Microlensing
 
