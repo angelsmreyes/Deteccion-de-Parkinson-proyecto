@@ -18,7 +18,7 @@ Lo cual pudo ser ocasionado por lo reducido de la data.
 
 En el caso de el notebook "Parkinson_tuning" se utilizo un [dataset](https://www.kaggle.com/vikasukani/parkinsons-disease-data-set) que está compuesto por una serie de medidas biomédicas de la voz de 31 personas, 23 de ellas con la enfermedad de Parkinson (EP). Cada columna de la tabla es una medida de voz concreta, y cada fila corresponde a una de las 195 grabaciones de voz de estas personas.
 
-## Tabla de Microlensing
+## Atributos
 
 | Name  | Description |
 | ------------- | ------------- |
