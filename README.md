@@ -42,4 +42,4 @@ Esto puede deberse a que la data no está balanceada.
 
 Para esta segunda data también se intentaron con otros modelos pero que el que tuve un mejor rendimiento fue SVM como se puede ver en las siguentes curvas ROC. 
 
-![Curvas modelos](models_curves.png)
+![Curvas modelos](modes_curves.png)
