@@ -14,7 +14,7 @@ Luego se aplico el modelo de Support Vector Machine (SVM) para analizar y recono
 
 Lo cual pudo ser ocasionado por lo reducido de la data. 
 
-![Curva ROC imagen]()
+![Curva ROC imagen](model_image)
 
 En el caso de el notebook "Parkinson_tuning" se utilizo un dataset que está compuesto por una serie de medidas biomédicas de la voz de 31 personas, 23 de ellas con la enfermedad de Parkinson (EP). Cada columna de la tabla es una medida de voz concreta, y cada fila corresponde a una de las 195 grabaciones de voz de estas personas.
 
@@ -39,3 +39,5 @@ El modelo utilizado fue Support Vector Machine con el que se puede detectar la e
 Esto puede deberse a que la data no está balanceada.
 
 ![Curva ROC voz](model_voice.png)
+
+Para esta segunda data también se intentaron con otros modelos pero que el que tuve un mejor rendimiento fue SVM como se puede ver en las siguentes curvas ROC. 
