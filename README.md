@@ -8,7 +8,7 @@ En "Parkinson_drawings" se hizo extrajo la data de fotografiás de espirales dib
 
 ![spiral_healthy]()
 
-![spiral_pd]()
+![spiral_pd](V01PE03.png)
 
 Luego se aplico el modelo de Support Vector Machine (SVM) para analizar y reconocer patrones sutiles entre los dos casos. Sin embargo el modelo no obtuvo un buen desempeño, ya que solo puede detectar la enfermedad con un 72%
 
