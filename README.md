@@ -1,6 +1,6 @@
 # Modelos como complemento para la ayuda a la detección de la enfermedad de Parkinson por analisis de voz e imagenes
 
-![]
+![parkinson image](parkinson_image.jpg)
 
 Este proyecto tuvo como finalidad el analizar dos datasets relacionados con la enfermedad de Parkinson y aplicar modelos de machine learning con el objetivo de estimar si el sujeto de prueba esta saludable o por el contrario si presenta la enfermedad. 
 
