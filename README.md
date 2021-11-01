@@ -38,4 +38,4 @@ El modelo utilizado fue Support Vector Machine con el que se puede detectar la e
 
 Esto puede deberse a que la data no está balanceada.
 
-![Curva ROC voz]()
+![Curva ROC voz](model voice.png)
