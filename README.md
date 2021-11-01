@@ -41,3 +41,5 @@ Esto puede deberse a que la data no está balanceada.
 ![Curva ROC voz](model_voice.png)
 
 Para esta segunda data también se intentaron con otros modelos pero que el que tuve un mejor rendimiento fue SVM como se puede ver en las siguentes curvas ROC. 
+
+![Curvas modelos](models_curves.png)
