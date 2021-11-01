@@ -6,7 +6,7 @@ Este proyecto tuvo como finalidad el analizar dos datasets relacionados con la e
 
 En "Parkinson_drawings" se hizo extrajo la data de fotografiás de espirales dibujadas por personas con parkinson y personas sin la enfermedad. 
 
-![spiral_healthy]()
+![spiral_healthy](V01HE03)
 
 ![spiral_pd](V01PE03.png)
 
