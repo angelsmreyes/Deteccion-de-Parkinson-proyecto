@@ -1,4 +1,4 @@
-# Modelo como complemento para la ayuda a la detección de la enfermedad de Parkinson por analisis de voz e imagenes
+# Modelos como complemento para la ayuda a la detección de la enfermedad de Parkinson por analisis de voz e imagenes
 
 ![]
 
